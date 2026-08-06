@@ -30,3 +30,15 @@ CONCLUSION
 
 Linear Search is simple and works on both sorted and unsorted data but is less efficient for large datasets.
 Binary Search is more efficient with O(log n) time complexity, but it requires the array to be sorted before searching.
+
+**PRACTICAL 3**
+
+
+SUMMARY
+
+Max Heap Sort efficiently sorts elements by first building a max heap and then repeatedly placing the largest element at the end of the array. It has a time complexity of O(n log n) in all cases and requires O(1) extra space.
+
+CONCLUSION
+
+The Max Heap Sort program successfully sorts the input array in ascending order while measuring its execution time. It is an efficient and reliable sorting algorithm for handling large datasets with consistent performance.
+
