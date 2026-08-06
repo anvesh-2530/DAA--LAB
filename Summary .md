@@ -1,4 +1,4 @@
-**Practical 1**
+**PRACTICAL 1**
 Summary::
 
 This project demonstrates the implementation of five fundamental sorting algorithms:  Bubble Sort
@@ -14,7 +14,7 @@ Different sorting algorithms have different strengths depending on the input siz
 Overall, Merge Sort and Quick Sort are the most efficient choices for large datasets due to their O(n log n) average time complexity.
 
 
-**Practical 2**
+**PRACTICAL 2**
 Summary::
 Linear Search and Binary Search were implemented and compared based on their execution time and search efficiency.
 The results showed that Binary Search is much faster than Linear Search for searching elements in a sorted array.
