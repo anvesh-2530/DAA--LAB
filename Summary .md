@@ -42,3 +42,14 @@ CONCLUSION
 
 The Max Heap Sort program successfully sorts the input array in ascending order while measuring its execution time. It is an efficient and reliable sorting algorithm for handling large datasets with consistent performance.
 
+**PRACTICAL 4**
+
+
+SUMMARY
+
+Factorial was implemented using both iterative and recursive approaches. Both methods produce the same result with O(n) time complexity, while iterative factorial uses O(1) space and recursive factorial uses O(n) space.
+
+CONCLUSION
+
+Both approaches successfully calculate the factorial of a non-negative integer. The iterative method is more memory-efficient, while the recursive method provides a simple and clear implementation using function calls.
+
