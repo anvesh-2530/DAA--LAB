@@ -53,3 +53,14 @@ CONCLUSION
 
 Both approaches successfully calculate the factorial of a non-negative integer. The iterative method is more memory-efficient, while the recursive method provides a simple and clear implementation using function calls.
 
+**PRACTICAL 7**
+
+SUMMARY
+
+The Making Change Problem was successfully implemented using Dynamic Programming. The DP table stores the minimum number of coins required for every amount from 0 to the target amount.
+
+CONCLUSION
+
+Dynamic Programming provides an efficient solution to the Making Change Problem by avoiding repeated calculations. The algorithm has O(amount × number of coins) time complexity and O(amount) space complexity.
+
+
