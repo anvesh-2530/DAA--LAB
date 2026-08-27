@@ -63,4 +63,15 @@ CONCLUSION
 
 Dynamic Programming provides an efficient solution to the Making Change Problem by avoiding repeated calculations. The algorithm has O(amount × number of coins) time complexity and O(amount) space complexity.
 
+**PRACTICAL 5**
+
+SUMMARY
+
+The 0/1 Knapsack problem was implemented using Dynamic Programming to maximize the total value within a given capacity.
+The DP table evaluates different item combinations to find the optimal solution.
+
+CONCLUSION
+
+The program successfully finds the optimal selection of items without exceeding the knapsack capacity.
+Dynamic Programming provides an efficient way to solve the problem.
 
