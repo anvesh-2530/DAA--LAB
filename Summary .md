@@ -75,3 +75,11 @@ CONCLUSION
 The program successfully finds the optimal selection of items without exceeding the knapsack capacity.
 Dynamic Programming provides an efficient way to solve the problem.
 
+**PRACTICAL 6**
+
+SUMMARY
+
+Matrix Chain Multiplication uses dynamic programming to find the most efficient order of multiplying matrices.
+
+CONCLUSION
+The program successfully finds the minimum number of scalar multiplications required for the given matrix chain.
