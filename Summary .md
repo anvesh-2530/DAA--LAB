@@ -82,6 +82,7 @@ SUMMARY
 Matrix Chain Multiplication uses dynamic programming to find the most efficient order of multiplying matrices.
 
 CONCLUSION
+
 The program successfully finds the minimum number of scalar multiplications required for the given matrix chain.
 
 
@@ -92,4 +93,5 @@ SUMMARY
 The graph was implemented using an adjacency list, and DFS and BFS were successfully performed on the graph.
 
 CONCLUSION
+
 DFS explores nodes deeply, while BFS explores nodes level by level. Both methods are useful for traversing and searching graphs.
