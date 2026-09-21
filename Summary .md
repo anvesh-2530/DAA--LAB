@@ -86,6 +86,7 @@ The program successfully finds the minimum number of scalar multiplications requ
 
 
 **PRACTICAL 8**
+
 SUMMARY
 
 The graph was implemented using an adjacency list, and DFS and BFS were successfully performed on the graph.
