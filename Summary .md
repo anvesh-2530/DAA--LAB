@@ -95,3 +95,14 @@ The graph was implemented using an adjacency list, and DFS and BFS were successf
 CONCLUSION
 
 DFS explores nodes deeply, while BFS explores nodes level by level. Both methods are useful for traversing and searching graphs.
+
+**PRACTICAL 9**
+
+SUMMARY
+
+Prim's algorithm finds the Minimum Spanning Tree by repeatedly selecting the minimum-weight edge connecting a selected vertex to an unselected vertex.
+
+CONCLUSION
+
+Prim’s algorithm successfully finds the Minimum Spanning Tree (MST) of a weighted graph by selecting the minimum-cost edges without forming cycles.
+The algorithm is simple and efficient, with a time complexity of O(V²).
