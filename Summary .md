@@ -106,3 +106,16 @@ CONCLUSION
 
 Prim’s algorithm successfully finds the Minimum Spanning Tree (MST) of a weighted graph by selecting the minimum-cost edges without forming cycles.
 The algorithm is simple and efficient, with a time complexity of O(V²).
+
+
+**PRACTICAL 3**
+
+
+SUMMARY
+
+Kruskal’s algorithm finds the Minimum Spanning Tree (MST) by sorting all edges in increasing order and selecting the smallest edges without forming cycles.
+
+CONCLUSION
+
+Kruskal’s algorithm successfully finds the Minimum Spanning Tree (MST) by selecting the smallest-weight edges while avoiding cycles.
+
