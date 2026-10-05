@@ -108,7 +108,7 @@ Prim’s algorithm successfully finds the Minimum Spanning Tree (MST) of a weigh
 The algorithm is simple and efficient, with a time complexity of O(V²).
 
 
-**PRACTICAL 3**
+**PRACTICAL 10**
 
 
 SUMMARY
