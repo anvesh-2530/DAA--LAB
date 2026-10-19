@@ -119,3 +119,14 @@ CONCLUSION
 
 Kruskal’s algorithm successfully finds the Minimum Spanning Tree (MST) by selecting the smallest-weight edges while avoiding cycles.
 
+
+**PRACTICAL 11**
+
+SUMMARY
+
+The Floyd–Warshall algorithm finds the shortest distances between all pairs of vertices in a weighted graph using dynamic programming.
+
+CONCLUSION
+
+The algorithm successfully calculates the shortest paths between all pairs of vertices. It has a time complexity of O(V³) and a space complexity of O(V²).
+
