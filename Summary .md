@@ -130,3 +130,14 @@ CONCLUSION
 
 The algorithm successfully calculates the shortest paths between all pairs of vertices. It has a time complexity of O(V³) and a space complexity of O(V²).
 
+
+**PRACTICAL 12**
+
+SUMMARY
+
+The Travelling Salesman Problem is solved using Dynamic Programming to find the minimum-cost tour that visits every city exactly once and returns to the starting city.
+
+CONCLUSION
+
+The program successfully calculates the minimum travelling cost using dynamic programming. This approach is more efficient than checking every possible tour, although its time complexity remains exponential.
+
